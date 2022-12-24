@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>九品志</title>
+    <link>http://example.com/</link>
+    
+    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 24 Dec 2022 07:26:45 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>早上好</title>
+      <link>http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/</link>
+      <guid>http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/</guid>
+      <pubDate>Sat, 24 Dec 2022 06:47:28 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;早上好！&lt;/p&gt;
+&lt;h2 id=&quot;发生了什么&quot;&gt;&lt;a href=&quot;#发生了什么&quot; class=&quot;headerlink&quot; title=&quot;发生了什么&quot;&gt;&lt;/a&gt;发生了什么&lt;/h2&gt;&lt;p&gt;事情是这样的：九品不喜欢写空间，其一是写空间很麻烦很不爽很难受，其二是写空间甚至需要审核，还</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>早上好！</p><h2 id="发生了什么"><a href="#发生了什么" class="headerlink" title="发生了什么"></a>发生了什么</h2><p>事情是这样的：九品不喜欢写空间，其一是写空间很麻烦很不爽很难受，其二是写空间甚至需要审核，还有概率不通过！第三是……一句话，不如不写</p><p>于是我建一个博客合情合理！</p><h2 id="用来提示我自己的，你不用看！"><a href="#用来提示我自己的，你不用看！" class="headerlink" title="用来提示我自己的，你不用看！"></a>用来提示我自己的，你不用看！</h2><p>创建新文章</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new 文章标题</span><br></pre></td></tr></table></figure><p>部署</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 清空静态页面</span><br><span class="line">hexo clean</span><br><span class="line"># 生成静态页面</span><br><span class="line">hexo generate</span><br><span class="line"># 部署 </span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>我们就写了一篇文章了！</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

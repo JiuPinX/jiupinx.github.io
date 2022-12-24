@@ -46,12 +46,12 @@
     // 添加监听器，在title里显示状态变化
     doc.addEventListener(visibilityChange, function () {
         if (doc[state] === 'visible') {
-            doc.title = '欢迎回来！d(`･∀･)b 👏';
+            doc.title = '早上好！';
             status = setTimeout(() => {
                 doc.title = docText;
             }, 1000);
         } else {
-            doc.title = '藏起来了d(`x_x)b';
+            doc.title = '啊这...';
             if (status) {
                 clearTimeout(status);
             }
