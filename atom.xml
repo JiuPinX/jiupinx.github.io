@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-24T07:22:52.647Z</updated>
+  <updated>2022-12-24T07:26:45.430Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/"/>
     <id>http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/</id>
     <published>2022-12-24T06:47:28.000Z</published>
-    <updated>2022-12-24T07:22:52.647Z</updated>
+    <updated>2022-12-24T07:26:45.430Z</updated>
     
-    <content type="html"><![CDATA[<p>早上好！</p><h2 id="发生了什么"><a href="#发生了什么" class="headerlink" title="发生了什么"></a>发生了什么</h2><p>事情是这样的：九品不喜欢写空间，其一是写空间很麻烦很不爽很难受，其二是写空间甚至需要审核，还有概率不通过！第三是……一句话，不如不写</p><p>于是我建一个博客合情合理！</p><h2 id="用来提示我自己的"><a href="#用来提示我自己的" class="headerlink" title="用来提示我自己的"></a>用来提示我自己的</h2><p>创建新文章</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new 文章标题</span><br></pre></td></tr></table></figure><p>部署</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 清空静态页面</span><br><span class="line">hexo clean</span><br><span class="line"># 生成静态页面</span><br><span class="line">hexo generate</span><br><span class="line"># 部署 </span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>我们就写了一篇文章了！</p>]]></content>
+    <content type="html"><![CDATA[<p>早上好！</p><h2 id="发生了什么"><a href="#发生了什么" class="headerlink" title="发生了什么"></a>发生了什么</h2><p>事情是这样的：九品不喜欢写空间，其一是写空间很麻烦很不爽很难受，其二是写空间甚至需要审核，还有概率不通过！第三是……一句话，不如不写</p><p>于是我建一个博客合情合理！</p><h2 id="用来提示我自己的，你不用看！"><a href="#用来提示我自己的，你不用看！" class="headerlink" title="用来提示我自己的，你不用看！"></a>用来提示我自己的，你不用看！</h2><p>创建新文章</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new 文章标题</span><br></pre></td></tr></table></figure><p>部署</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 清空静态页面</span><br><span class="line">hexo clean</span><br><span class="line"># 生成静态页面</span><br><span class="line">hexo generate</span><br><span class="line"># 部署 </span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>我们就写了一篇文章了！</p>]]></content>
     
     
       
