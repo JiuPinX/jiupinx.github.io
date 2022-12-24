@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-24T03:31:11.259Z</updated>
+  <updated>2022-12-24T06:42:33.933Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>早上好</title>
+    <link href="http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/"/>
+    <id>http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/</id>
+    <published>2022-12-24T06:41:52.000Z</published>
+    <updated>2022-12-24T06:42:33.933Z</updated>
+    
+    <content type="html"><![CDATA[<p>早上好！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;早上好！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="potato" scheme="http://example.com/tags/potato/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
