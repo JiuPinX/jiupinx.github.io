@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>九品志</title>
-    <link>http://example.com/</link>
+    <link>https://jiupinx.github.io/</link>
     
-    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://jiupinx.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Sat, 24 Dec 2022 07:26:45 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>早上好</title>
-      <link>http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/</link>
-      <guid>http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/</guid>
+      <link>https://jiupinx.github.io/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/</link>
+      <guid>https://jiupinx.github.io/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/</guid>
       <pubDate>Sat, 24 Dec 2022 06:47:28 GMT</pubDate>
       
         
@@ -31,7 +31,7 @@
       
       
       
-      <comments>http://example.com/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/#disqus_thread</comments>
+      <comments>https://jiupinx.github.io/2022/12/24/%E6%97%A9%E4%B8%8A%E5%A5%BD/#disqus_thread</comments>
       
     </item>
     
